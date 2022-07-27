@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333796327611",
+    "project_id": "attarmarket-e9d2d",
+    "storage_bucket": "attarmarket-e9d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333796327611:android:9383a7cc361fcb30faa99e",
+        "android_client_info": {
+          "package_name": "com.example.aswaq_attar_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333796327611-vgd80ou0rv8msij3lil3e3vkjsapg7g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aswaq_attar_market",
+            "certificate_hash": "70153e7e60a7d50b3b101bf3c17cf74b30771a87"
+          }
+        },
+        {
+          "client_id": "333796327611-vju6mrqg4pd23g9ra6d85j55l6ec01r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaU6Ik7cbVNoaYozEmYFNsJaEtiqoUY5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333796327611-vju6mrqg4pd23g9ra6d85j55l6ec01r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
